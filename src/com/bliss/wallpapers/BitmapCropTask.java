@@ -1,4 +1,4 @@
-package com.nitrogen.wallpapers;
+package com.bliss.wallpapers;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
