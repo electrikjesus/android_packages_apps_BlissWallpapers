@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.nitrogen.wallpapers;
+package com.bliss.wallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
